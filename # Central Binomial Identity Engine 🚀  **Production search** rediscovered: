@@ -1,0 +1,7 @@
+
+**16D sieve (137 anchor) rejects 99.9% ghosts.**
+
+## Live Demo
+```bash
+git clone https://github.com/jason2480/central-binomial-identity-search
+python engine.py  # N=200 complete
